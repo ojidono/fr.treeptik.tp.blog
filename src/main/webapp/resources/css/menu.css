@@ -1,0 +1,22 @@
+@CHARSET "UTF-8";
+
+nav {
+    left: 0;
+    top: 0;
+    position-anchor: 0 0;
+    width: 12%;
+    height: 100%;
+    position: fixed;
+    outline: 1px solid;
+}
+article{
+	margin-left: 12%
+}
+#sideContent{
+    position: fixed;
+	margin-left: 60%;
+    width: 20%;
+    height: 100%;
+    outline: 1px solid;
+/*     background: oldlace; */
+    }
